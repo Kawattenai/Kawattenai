@@ -1,4 +1,4 @@
-## Hi there 👋
+I like eating spaghetti code
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Kawattenai)](https://github.com/Kawattenai/github-readme-stats)
 <!--
