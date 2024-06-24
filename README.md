@@ -1,6 +1,6 @@
 I like eating spaghetti code
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Kawattenai&show_icons=true&theme=radical)]
+![Stats](https://github-readme-stats.vercel.app/api?username=Kawattenai&show_icons=true&theme=radical)
 <!--
 **Kawattenai/Kawattenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
